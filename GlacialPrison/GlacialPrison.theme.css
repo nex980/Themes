@@ -22,7 +22,7 @@ body::after,
 .auth-background,
 .auth-tiling-bg,
 .invite-modal .invite-splash{
-	background-image: url(https://i.imgur.com/7SbtKvw.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
+	background-image: url(https://images5.alphacoders.com/554/thumb-350-554286.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
 }
 /* ========= CUSTOMIZABLE DM IMAGE========== */
 .guilds-wrapper .guilds .friends-icon::after {
