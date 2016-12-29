@@ -22,7 +22,7 @@ body::after,
 .auth-background,
 .auth-tiling-bg,
 .invite-modal .invite-splash{
-	background-image: url(https://www.walldevil.com/wallpapers/a80/disco-wallpaper-dantes-inferno-dante-games-background-animated-wallpapers.jpg) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
+	background-image: url(https://images8.alphacoders.com/542/542198.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
 }
 /* ========= CUSTOMIZABLE DM IMAGE========== */
 .guilds-wrapper .guilds .friends-icon::after {
