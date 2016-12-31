@@ -22,11 +22,11 @@ body::after,
 .auth-background,
 .auth-tiling-bg,
 .invite-modal .invite-splash{
-	background-image: url(https://i.imgur.com/7SbtKvw.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
+	background-image: url(https://orig08.deviantart.net/79d6/f/2014/328/f/d/akame_ga_kill___nothing_to_fight_for_by_lysergicx-d87ic1d.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
 }
 /* ========= CUSTOMIZABLE DM IMAGE========== */
 .guilds-wrapper .guilds .friends-icon::after {
-	background-image: url(https://orig03.deviantart.net/6320/f/2008/017/5/d/fractal___ice_hex_animated_by_p1_2004gsb.gif) !important; /* IMPORTANT: For best result, use even dimensions */
+	background-image: url(https://vignette2.wikia.nocookie.net/akamegakill/images/d/d2/AkamegaKill_Clashofthesisters.gif/revision/latest?cb=20150718001941) !important; /* IMPORTANT: For best result, use even dimensions */
 }
 /* ========= CUSTOMIZABLE PROFILE HEADERS========== */
 /*SMALL HEADER*/
