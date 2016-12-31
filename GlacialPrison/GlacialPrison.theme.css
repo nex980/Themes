@@ -22,11 +22,11 @@ body::after,
 .auth-background,
 .auth-tiling-bg,
 .invite-modal .invite-splash{
-	background-image: url(https://i.imgur.com/7SbtKvw.png) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
+	background-image: url(https://images.alphacoders.com/554/554278.jpg) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
 }
 /* ========= CUSTOMIZABLE DM IMAGE========== */
 .guilds-wrapper .guilds .friends-icon::after {
-	background-image: url(https://orig03.deviantart.net/6320/f/2008/017/5/d/fractal___ice_hex_animated_by_p1_2004gsb.gif) !important; /* IMPORTANT: For best result, use even dimensions */
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/5d/e1/ca/5de1ca41cbdee8a9bf001725e8c29f3d.gif) !important; /* IMPORTANT: For best result, use even dimensions */
 }
 /* ========= CUSTOMIZABLE PROFILE HEADERS========== */
 /*SMALL HEADER*/
